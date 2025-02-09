@@ -1,4 +1,4 @@
-#👩🏾‍💻 #7DaysOfCode alura - Día 1: Comparaciones en JavaScript
+#👩🏾‍💻 #7DaysOfCode alura - Día 1: Comparaciones en JavaScript(Operaciones Booleanas)
 ## 📝 Propuesta del reto  
 Tu tarea de hoy es reescribir el código a continuación para que imprima la información de manera correcta, que tenga sentido y sin errores:
 
