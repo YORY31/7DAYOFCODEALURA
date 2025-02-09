@@ -28,4 +28,4 @@ if (COMPARAR numeroDiez y stringDiez) {
   console.log("Las variables numeroDiez y stringDiez no tienen el mismo valor");
 }
 
-#ruta de la solucion 7DAYOFCODEALURA/RETOS/DAT1.JS
+#ruta de la solucion 7DAYOFCODEALURA/RETOS/DAY1.JS
