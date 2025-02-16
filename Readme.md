@@ -4,5 +4,5 @@
 - Dia 3 : crear los destinos posibles de un juego, en el que el usuario pueda elegir:
 - Dia 4 : Descifrar numero secreto.
 - Dia 5 : Clasificación automática de alimentos en categorías para una lista de compras
-- Dia 6 : 
+- Dia 6 : Gestor de Compras: Añadir y Eliminar Productos de tu Lista
 - Dia 7:
